@@ -43,7 +43,7 @@ export default function List({
       </div>
         <div className="flex w-full justify-center">
           <audio controls >
-            <source src={`http://localhost:3333/${s3Url}`} type="audio/mp3"/>
+            <source src={`http://52.55.225.189/${s3Url}`} type="audio/mp3"/>
             </audio>
         </div>
       <hr />
